@@ -1,1 +1,1 @@
-# OkyanusK
+Kendimce yaptığım bazı denemeler 
